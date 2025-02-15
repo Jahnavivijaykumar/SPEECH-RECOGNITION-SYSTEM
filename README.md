@@ -79,3 +79,9 @@ CONCLUSION:
 The Speech-to-Text Application is a powerful and accessible tool for converting spoken words into text with ease. With its user-friendly GUI and the ability to choose between online and offline transcription methods, it serves as a versatile solution for various transcription needs. Whether you are transcribing meetings, lectures, or personal notes, this application provides a seamless and efficient experience. Future enhancements will further improve its accuracy and usability, making it even more valuable for users worldwide.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/9f807092-1963-4322-9862-6984f4274440)
+
+![Image](https://github.com/user-attachments/assets/08e99b8f-f01b-4cfb-92d8-3c1b4ff1b368)
+
+![Image](https://github.com/user-attachments/assets/0eb9ce48-aacf-4cf0-824c-19b515ad220e)
