@@ -1,17 +1,5 @@
 # SPEECH-RECOGNITION-SYSTEM
 
-*COMPANY* : CODTECH IT SOLUTIONS
-
-*NAME* : JAHNAVI V
-
-*INTERN ID* : CT08TPZ
-
-*DOMAIN* : ARTIFICIAL INTELLIGENCE
-
-*DURATION* : 4 WEEKS
-
-*MENTOR* : NEELA SATOSH
-
 SUMMARY:
 With the help of the GUI-based Speech-to-Text Application, users may convert spoken words into text by uploading an audio file from their local device. It offers two transcribing techniques:
 Internet connectivity is required for the online Google SpeechRecognition API function.
